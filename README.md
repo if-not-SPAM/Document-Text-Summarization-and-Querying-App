@@ -59,7 +59,7 @@ streamlit run app.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 ```
 
 Feel free to copy and paste this content directly into your README.md file on GitHub!
