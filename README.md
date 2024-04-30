@@ -1,7 +1,4 @@
-Sure, here's a template for your README.md file on GitHub:
-
-```
-# Interactive Document Text Summarization and Querying Application
+# Document Text Summarization and Querying Application
 
 ## Description
 
@@ -64,5 +61,5 @@ streamlit run app.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+This README.md file provides a comprehensive overview of your project, including installation instructions, usage guidelines, technologies used, contributors, and licensing information. Feel free to modify it further to meet your specific needs!
 
-Feel free to customize it further to fit your specific project details and requirements!
