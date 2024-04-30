@@ -1,4 +1,4 @@
-# Document Text Summarization and Querying Application
+# Interactive Document Text Summarization and Querying Application
 
 ## Description
 
@@ -59,7 +59,7 @@ streamlit run app.py
 
 ## License
 
-This repository is provided under the MIT License[ See the LICENSE file for details ], granting you the freedom to modify and distribute the code for your own educational and personal use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-This README.md file provides a comprehensive overview of your project, including installation instructions, usage guidelines, technologies used, contributors, and licensing information. Feel free to modify it further to meet your specific needs!
 
+Feel free to copy and paste this content directly into your README.md file on GitHub!
