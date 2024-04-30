@@ -1,4 +1,7 @@
-# Document Text Summarization and Querying Application
+Sure, here's a template for your README.md file on GitHub:
+
+```
+# Interactive Document Text Summarization and Querying Application
 
 ## Description
 
@@ -18,16 +21,19 @@ The Interactive Document Text Summarization and Querying Application is a revolu
 
 ```bash
 git clone https://github.com/your-username/interactive-text-summarization.git
+```
 
 2. Navigate to the project directory:
 
 ```bash
 cd interactive-text-summarization
+```
 
 3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -35,34 +41,28 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+```
 
 2. Upload your document or enter text directly into the interface.
-
 3. Select the desired action: Summarize Text or Query Text.
-
 4. Follow the prompts to interact with the application and extract insights from the text.
 
 ## Technologies Used
 
-1. Python
-
-2. Streamlit
-
-3. NLTK (Natural Language Toolkit)
-
-4. Transformers (Hugging Face)
-
-5. PyPDF2, docx, pptx libraries
+- Python
+- Streamlit
+- NLTK (Natural Language Toolkit)
+- Transformers (Hugging Face)
+- PyPDF2, docx, pptx libraries
 
 ## Contributors
 
-1. Swayam Prabha Maurya
-
-2. Tanishka Goyal
-
+- Swayam Prabha Maurya
+- Tanishka Goyal
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
 
-This README.md file provides a comprehensive overview of your project, including installation instructions, usage guidelines, technologies used, contributors, and licensing information. Feel free to modify it further to meet your specific needs!
+Feel free to customize it further to fit your specific project details and requirements!
