@@ -59,7 +59,7 @@ streamlit run app.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is provided under the MIT License, granting you the freedom to modify and distribute the code for your own educational and personal use.
 ```
 This README.md file provides a comprehensive overview of your project, including installation instructions, usage guidelines, technologies used, contributors, and licensing information. Feel free to modify it further to meet your specific needs!
 
